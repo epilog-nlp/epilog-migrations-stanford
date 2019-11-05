@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stanford.NLP.Graphs", "Stanford.NLP.Graphs\Stanford.NLP.Graphs.csproj", "{7351BB63-D6EC-4AC1-871A-159E68BB69DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stanford.NLP.Collections", "Stanford.NLP.Collections\Stanford.NLP.Collections.csproj", "{C95A007A-1055-4BC3-B0B5-3BC3BF35B2A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stanford.NLP.Util", "Stanford.NLP.Util\Stanford.NLP.Util.csproj", "{FCAFD782-5B12-4ED0-8DE7-44AC57E539A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stanford.NLP.IE", "Stanford.NLP.IE\Stanford.NLP.IE.csproj", "{E189279F-2B6B-4323-AE8F-5E0703DD608E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stanford.NLP.Ling", "Stanford.NLP.Ling\Stanford.NLP.Ling.csproj", "{FE2ABE42-68F4-47AB-BA34-E56175064201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7351BB63-D6EC-4AC1-871A-159E68BB69DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7351BB63-D6EC-4AC1-871A-159E68BB69DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7351BB63-D6EC-4AC1-871A-159E68BB69DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7351BB63-D6EC-4AC1-871A-159E68BB69DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95A007A-1055-4BC3-B0B5-3BC3BF35B2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95A007A-1055-4BC3-B0B5-3BC3BF35B2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95A007A-1055-4BC3-B0B5-3BC3BF35B2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95A007A-1055-4BC3-B0B5-3BC3BF35B2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAFD782-5B12-4ED0-8DE7-44AC57E539A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAFD782-5B12-4ED0-8DE7-44AC57E539A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAFD782-5B12-4ED0-8DE7-44AC57E539A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAFD782-5B12-4ED0-8DE7-44AC57E539A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E189279F-2B6B-4323-AE8F-5E0703DD608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E189279F-2B6B-4323-AE8F-5E0703DD608E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E189279F-2B6B-4323-AE8F-5E0703DD608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E189279F-2B6B-4323-AE8F-5E0703DD608E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2ABE42-68F4-47AB-BA34-E56175064201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2ABE42-68F4-47AB-BA34-E56175064201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2ABE42-68F4-47AB-BA34-E56175064201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2ABE42-68F4-47AB-BA34-E56175064201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B780A9-0766-4E82-A249-750B2130DD68}
+	EndGlobalSection
+EndGlobal
